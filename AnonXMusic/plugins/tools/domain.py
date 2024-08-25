@@ -3,7 +3,7 @@ import whois
 import socket
 from datetime import datetime
 import requests
-from ANNIEMUSIC import app
+from AnonXMusic import app
 
 def get_domain_hosting_info(domain_name):
     try:
